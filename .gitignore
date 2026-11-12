@@ -1,0 +1,5 @@
+# Thư viện .venv
+.venv/
+.env/
+__pycache__/
+data/
